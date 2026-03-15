@@ -8,8 +8,6 @@
   
 - 🌱 I’m currently learning **Unreal Engine, C++**
 
-- 📝 I regularly write articles on [https://www.oyungunlugu.com/author/yusuf/](https://www.oyungunlugu.com/author/yusuf/)
-
 - 📫 How to reach me **y.furkan.kilinc@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
